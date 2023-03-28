@@ -1,4 +1,6 @@
-input.onButtonPressed(Button.A, function() {
+// radio.setGroup(123)
+
+input.onButtonPressed(Button.A, function () {
     radio.sendString(":)")
 })
 
